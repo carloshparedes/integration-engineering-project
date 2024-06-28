@@ -2,6 +2,8 @@
 
 ¡Hola! 👋 Este proyecto es una aplicación sencilla que te permite validar documentos utilizando la API de Truora. ¡Vamos a ponerlo en marcha!
 
+![background checks Truora](img/screenshot-truora.jpeg "background checks Truora")
+
 ## 📂 Estructura del Proyecto
 
 El proyecto consta de los siguientes archivos:
